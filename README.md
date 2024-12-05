@@ -1,0 +1,2 @@
+# educacionAdventist
+github.pages
